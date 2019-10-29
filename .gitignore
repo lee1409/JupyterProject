@@ -121,3 +121,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# 
+.idea/
+.vscode/
+.DS_Store
+
+# Model Logs and Data
+digit-recognizer
+modal_dir
