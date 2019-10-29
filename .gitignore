@@ -128,5 +128,6 @@ dmypy.json
 .DS_Store
 
 # Model Logs and Data
+dataset
 digit-recognizer
 modal_dir
